@@ -1,0 +1,81 @@
+        body    
+        {
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCL3HgBdwHWmdP_6GbPW2PgRryF5iVxrivGA&usqp=CAU" );
+            background-size: 30rem;
+            
+        }
+        h1 {
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+        }
+        h2
+        {
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+        }
+        p{
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+            
+        }
+        a
+        {
+            
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+        }
+        a:visited {
+        color: burlywood;
+        background-color: transparent;
+        text-decoration: none;
+        }
+        a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+        a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+        .center
+        {
+            width: 300px;
+            margin: 0 auto;
+        }
+        .boton
+        {
+            width: 900px;
+            margin: 0 auto;
+        }
+        .borde {
+            
+            border: 0px solid black;
+            margin: 50px;
+              background-size: 70rem;
+            
+        }
+        .enlaces{
+            
+        }
+        .encabezado {
+            
+
+            padding: 40px;
+            background-image: url("https://images.unsplash.com/photo-1625847365252-5484b6b6df4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&w=1000&q=80"); }
+        .cafe {
+
+            padding: 40px;
+            background-image: url("https://cdn.wallpapersafari.com/33/7/ZmRcgk.jpg");
+            background-size: 50cm;
+        }
+        #titulo
+        {
+            background-image: url("https://images.unsplash.com/photo-1625847365252-5484b6b6df4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&w=1000&q=80");
+            padding: 40px;
+        }
